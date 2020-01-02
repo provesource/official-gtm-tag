@@ -2,7 +2,7 @@
 The official ProveSource tag template for Google Tag Manager
 
 ### What's ProveSource?
-Very briefly, ProveSource is a social proof marketing platform that highlights recent customer actions on your website (signups, purchases, reviews, visits) to build trust and increase your conversion rates.
+Very briefly, [ProveSource](https://provesrc.com) is a social proof marketing platform that highlights recent customer actions on your website (signups, purchases, reviews, visits) to build trust and increase your conversion rates.
 
 ### Find Your API Key
 You need to have an account in order to use this integration type.
