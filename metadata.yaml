@@ -1,5 +1,5 @@
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://provesrc.com"
+documentation: "https://help.provesrc.com/en/articles/3485750-where-do-i-find-my-api-key"
 versions:
   - sha: 96116f75e458969e896947a62756c2138e6ce455
     changeNotes: Initial release.
